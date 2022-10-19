@@ -5,7 +5,7 @@
 
 ##### Problem Statement:
 
-The goal of this project was to uncover underlying factors of medical conditions by applying Natural Language Processing and Machine Learning tehcniques. The data set used contained 303 txt files of doctors notes (this data set is not public as it was provided by another party). Each text file contained a detailed report of the patient’s visit, history, medication, and condition. While the text files were rather variable, there were a number of similar features throughout the notes, three of them being “chief complaint”, “history of present illness” (HPI), and “discharge diagnosis.” The ann files primarily contained information on the medication, categorizing information into “drug”, “dosage”, “frequency, “route”, and “reason.”
+The goal of this project was to uncover underlying factors of medical conditions by applying Natural Language Processing and Machine Learning tehcniques. The data set used contained 303 txt files of doctors notes (this data set was provided by Cohere Health). Each text file contained a detailed report of the patient’s visit, history, medication, and condition. While the text files were rather variable, there were a number of similar features throughout the notes, three of them being “chief complaint”, “history of present illness” (HPI), and “discharge diagnosis.” The ann files primarily contained information on the medication, categorizing information into “drug”, “dosage”, “frequency, “route”, and “reason.”
 Solution:
 Plan:
 My overall solution to this problem is described below:
